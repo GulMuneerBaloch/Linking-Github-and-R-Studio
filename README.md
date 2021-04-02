@@ -1,4 +1,4 @@
-# RstudiolinkedwithGithub
+# R studio linked with Github
 A repository that will be linked with RStudio
 After installing RStudio and Gib set on your computer in a GitHub account, It's time to link them together to maximize the benifts of using RStudio in your version control piopelines. 
 **
